@@ -1,4 +1,4 @@
-# synapsera-eeg-insight# 🧠 EEG Insight by SYNAPSERA
+🧠 EEG Insight by SYNAPSERA
 
 **AI-powered EEG report explainer for neuroscience and clinical education.**
 
