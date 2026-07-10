@@ -5,6 +5,9 @@
 EEG Insight is an educational web application that helps students, clinicians-in-training, researchers, and patients understand complex EEG reports in clear language. The tool translates technical EEG terminology into structured explanations, highlights key findings, and provides separate summaries for medical learners and non-specialist users.
 
 ---
+## 🌐 Live Demo
+
+[View EEG Insight](https://synapsera-eeg-insight.vercel.app)
 
 ## 🚀 Overview
 
