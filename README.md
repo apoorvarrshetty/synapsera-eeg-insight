@@ -1,6 +1,6 @@
-🧠 EEG Insight by SYNAPSERA
+# 🧠 EEG Insight by SYNAPSERA
 
-**AI-powered EEG report explainer for neuroscience and clinical education.**
+**AI-ready EEG report explainer for neuroscience and clinical education.**
 
 EEG Insight is an educational web application that helps students, clinicians-in-training, researchers, and patients understand complex EEG reports in clear language. The tool translates technical EEG terminology into structured explanations, highlights key findings, and provides separate summaries for medical learners and non-specialist users.
 
@@ -12,14 +12,14 @@ Electroencephalography reports often contain highly specialized terms such as *e
 
 **EEG Insight** helps bridge that gap by converting EEG report text into a structured educational explanation.
 
-This project is part of **SYNAPSERA**, an open-source collection of AI-powered neurotechnology tools for neuroscience education, research, and clinical learning.
+This project is part of **SYNAPSERA**, an open-source collection of neurotechnology tools for neuroscience education, research, and clinical learning.
 
 ---
 
 ## ✨ Features
 
 - Paste any EEG report text into the app
-- Generate an AI-powered explanation
+- Generate a structured AI-style educational explanation
 - Summarize the report in simple language
 - Identify key EEG findings
 - Explain technical EEG terms
@@ -27,6 +27,7 @@ This project is part of **SYNAPSERA**, an open-source collection of AI-powered n
 - Generate a patient-friendly explanation
 - Include clear educational and medical disclaimers
 - Clean, responsive, modern medical UI
+- Demo EEG report included
 
 ---
 
@@ -38,7 +39,7 @@ The app generates structured results in the following format:
    A concise overview of the EEG report.
 
 2. **Key EEG Findings**  
-   Important abnormalities or normal features mentioned in the report.
+   Important normal or abnormal findings mentioned in the report.
 
 3. **Medical Terms Explained**  
    Definitions of EEG terminology in simple language.
@@ -54,13 +55,16 @@ The app generates structured results in the following format:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - React
-- TypeScript
-- Tailwind CSS
-- Fable
-- AI API integration
+- Vite
+- JavaScript
+- CSS
+- Lucide React
+- Mock AI analysis flow
+
+> Future versions will include a secure serverless AI API integration.
 
 ---
 
